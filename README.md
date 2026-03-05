@@ -57,19 +57,19 @@ Standardized column formats
 
 The following business questions were analyzed using SQL:
 
-Total number of products available
+1). Total number of products available
 
-Number of products in each category
+2). Number of products in each category
 
-Products with the highest discount
+3). Products with the highest discount
 
-Most expensive and least expensive products
+4). Most expensive and least expensive products
 
-Average price of products per category
+5). Average price of products per category
 
-Stock availability analysis
+6). Stock availability analysis
 
-Revenue estimation based on price and quantity
+7). Revenue estimation based on price and quantity
 
 📈 Example SQL Concepts Used
 
